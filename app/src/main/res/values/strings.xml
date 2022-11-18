@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">p-4</string>
+    <string name="web_url" />
+    <string name="call_number" />
+    <string name="call" />
+    <string name="contact_list" />
+    <string name="contact" />
+    <string name="call_log" />
+    <string name="call_log1" />
+    <string name="camera1" />
+    <string name="alarm" />
+    <string name="alarm2" />
+</resources>
